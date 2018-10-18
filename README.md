@@ -36,6 +36,6 @@ Run `npm install`
 `./node_modules/.bin/webpack-dev-server --open`
 
 
-
+<i>More instructions coming soon..</i>
 
 
